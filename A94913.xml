@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true and exact relation of the whole proceedings of the Parliaments forces, that went out under the command of Colonel Brown with Colonell Manwerings forces into Kent, to appease the tumult raised there by the malignants and ill-affected to the Parliament. VVherein is a true relation of the taking of the towne of Tunbridge, which hertofore [sic] was never conquered; and by what means it was taken, and the losse that was on both sides. With many other observable passages related by one that was not only an eye witnesse, but in the whole service. Published according to order.</title>
+            <author>One that was not only an eyewitnesse but in the whole service.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94913</idno>
+            <idno type="STC">Wing T2465</idno>
+            <idno type="STC">Thomason E62_11</idno>
+            <idno type="STC">ESTC R19133</idno>
+            <idno type="EEBO-CITATION">99860583</idno>
+            <idno type="PROQUEST">99860583</idno>
+            <idno type="VID">155362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94913)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155362)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 11:E62[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true and exact relation of the whole proceedings of the Parliaments forces, that went out under the command of Colonel Brown with Colonell Manwerings forces into Kent, to appease the tumult raised there by the malignants and ill-affected to the Parliament. VVherein is a true relation of the taking of the towne of Tunbridge, which hertofore [sic] was never conquered; and by what means it was taken, and the losse that was on both sides. With many other observable passages related by one that was not only an eye witnesse, but in the whole service. Published according to order.</title>
+                  <author>One that was not only an eyewitnesse but in the whole service.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Austin and A. Coe,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "29 July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Browne, Richard, --  Sir, 1602?-1669.</term>
+               <term>Manwayring, Henry, --  Sir, 1587-1653.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term>Tonbridge (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155362:1" rendition="simple:additions"/>
+            <p>A TRUE AND EXACT RELATION Of the whole proceedings of the Par<g ref="char:EOLhyphen"/>liaments Forces, that went out under the command of Colonel <hi>Brown</hi> with Colonell <hi>Manwerings</hi> Forces into KENT, To appeaſe the tumult raiſed there by the Malignants and ill-affected to the PARLIAMENT.</p>
+            <p>VVherein is a true Relation of the taking of the Towne of Tunbridge, which hertofore was never conquered; and by what means it was taken, and the loſſe that was on both ſides.</p>
+            <p>With many other obſervable paſſages related by one that was not only an eye witneſſe, but in the whole ſervice.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>Printed by <hi>R. Auſtin</hi> and <hi>A. Coe.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155362:2"/>
+            <pb n="1" facs="tcp:155362:2"/>
+            <head>A TRUE AND EXACT RELATION Of the whole proceedings of the Par<g ref="char:EOLhyphen"/>liament Forces into KENT.</head>
+            <p>
+               <seg rend="decorInit">U</seg>Pon <hi>Munday</hi> laſt, we march<g ref="char:EOLhyphen"/>ed thorough <hi>Synock,</hi> about which the ſaid Combuſtion did firſt begin, but finding none of the adverſe party there, we haſtened towards <hi>Tunbridge,</hi> where wee had intelligence, that a ſtrong party of them lay being a place, by nature very ſtrongly fortified, and before we came to make any aſſault upon the Town, Colonell <hi>Browne</hi> ſent a Trumpeter to them to ſummon them to yeeld up the Towne and to lay down their Armes, whereupon they returned anſwer to this effect; That they ſtood for their ancient Lawes and Cuſtomes, without which they refuſed to lay down their Armes, but deſired to treat further about the ſaid buſineſſe, upon which, Colonell <hi>Browne</hi> ſent them word, that he would come and treat with them himſelfe. And ſo
+<pb n="2" facs="tcp:155362:3"/>
+about three of the clocke in the after noone, a part of our Forces having matched about nine miles that day: Wee approached within halfe a mile of the Town, where wee diſcovered the Enemy upon a hill within a quarter of a mile of the Towne, upon which our Souldiers expreſſed much joye, and were exceeding forward to fall upon them: After which three or foure files of Nuſqueteers were drawing out upon the forlorn-hope, and marched down into a bot<g ref="char:EOLhyphen"/>tome, neere to the Enemy, through a lane where we could march but ſix a breaſt, there being in the bottome, a narrow Bridge, where the Enemy lay in Ambuſcado, and charged upon us before we percei<g ref="char:EOLhyphen"/>ved them, yet thorough Gods mercy, there was but one man of us hurt (being of the left-hand File) which was ſhot thorow the thigh, but not killed: we charged them again, but running away, they eſcaped: Then we played upon them with two Drakes, and forced them into the Towne: Wee drew neerer to them, and both with our Drakes and Musket ſhot did much annoy the Enemy, who having the advantage of a Towne of ſuch conſequence, and houſes, and o<g ref="char:EOLhyphen"/>ther places of refuge, they hold us fight for about three or foure houres together, after which percei<g ref="char:EOLhyphen"/>ving the Enemy forces to begin to fly, wee marched up to the very Towne, with our body of Foot (the Horſe having little opportunity to performe any con<g ref="char:EOLhyphen"/>ſiderable ſervice) and et our entrance into the Towne, the Enemy gave us a volley of ſhot, but did us little hurt, onely Sergeant Major <hi>Rowes</hi> Enſigne was ſlaine.</p>
+            <p>Having thus entered the towne and finding the ene<g ref="char:EOLhyphen"/>mie
+<pb n="3" facs="tcp:155362:3"/>
+to, fly command was given to the Horſe to purſue them towards the Bridge, which the Enemy perceiving, many of them left the Bridge and leaped into the River, and were drawned; others that got over the River, left the high wayes and betooke themſelves to by pathes and hedges, but if night had not over<g ref="char:EOLhyphen"/>taken us, we had taken, in all probability, all their Horſe (as we did a great part) and few of their Foot had eſcaped.</p>
+            <p>The neighbouring Towns were very joy<g ref="char:EOLhyphen"/>full at our enterance into this Town, and the next morning hundred and fifty Dragoones came in to us, profering their aid and aſsi<g ref="char:EOLhyphen"/>ſtance, and there being five hundred of the Malevolents at a Town called Yawlden, a<g ref="char:EOLhyphen"/>bout ſix miles from Tunbridge, the ſtrength of the County came againſt them and put them to flight.</p>
+            <p>Wee tooke a hundred and fifty priſoners, but the next day ſome of them were releaſed, and the reſt being a hundred and foure, wee have brought away to Synocke, beſides the Miniſter of the Towne, who is a great Ma<g ref="char:EOLhyphen"/>lignant, and had a hand in inviting the Cava<g ref="char:EOLhyphen"/>liers
+<pb n="4" facs="tcp:155362:4"/>
+thither, &amp; an ancient Gentleman which is thought to bee one of their chiefe Com<g ref="char:EOLhyphen"/>manders.</p>
+            <p>We loſt in all ſix of our men, whereof the Enſigne before mentioned, was the chiefe, and notwithſtanding the great advantage the Enemy had in the Towne, we found three men dead in the ſtreets, beſides thoſe that were drowned in the River, and one man (being mortally wounded) deſired our Soul<g ref="char:EOLhyphen"/>diers to put him out of his paine, whereupon ſome of our Souldiers asking who was their chiefe Leader or Commander, he anſwered, hee knew not, but he thought, the Devill.</p>
+            <p>It ſeemed that the Enemy expected aide and aſsiſtance from other places, which fai<g ref="char:EOLhyphen"/>led them; for during the fight they rung the bels hackwards, yet none durſt come to aid them: What ſtrength they had was not certainly knowe, but they had both Horſe and Foot, and ſome Armes, though many of them were forced to make uſe of Birding-peeces, yet to ſhew their malice, they which we tooke priſoners had many of them poyſoned bullets in their pockets.</p>
+            <p>
+               <pb n="6" facs="tcp:155362:4"/>
+Thus having given a faithfull and true Re<g ref="char:EOLhyphen"/>lation of ſuch things as happened in our mar<g ref="char:EOLhyphen"/>ching upon this ſervice and having ſo much diſperſed them that as we knew not where to find them, ſo will it be hard for them to ga<g ref="char:EOLhyphen"/>ther together again, we returned to Synocke with our priſoners, where the Army doth as yet remaine, and a Counſell of War is this day holden to proceed to tryall of ſuch pri<g ref="char:EOLhyphen"/>ſoners as we have taken, and if the Malig<g ref="char:EOLhyphen"/>nants are not wholly diſsipated and diſperſed we ſhall be ready to performe ſuch ſervice as may tend to the good and ſafety of the King<g ref="char:EOLhyphen"/>dome and the Peace and proſperity of the Common-wealth, againſt all that ſhall raiſe and increaſe the diviſions and diſtractions of the State, and make the breach greater be<g ref="char:EOLhyphen"/>tween the King and the Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
